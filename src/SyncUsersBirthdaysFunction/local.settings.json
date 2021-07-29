@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "GraphClientId": "",
+    "GraphClientSecret": "",
+    "TenantId": "",
+    "TenantUrl": "https://axamansard.sharepoint.com",
+    "BirthdayListTitle": "Birthdays"
+  }
+}
